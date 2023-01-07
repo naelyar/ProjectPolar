@@ -11,9 +11,7 @@
 .mainLeft {
   padding: 200px 0 0;
   width: 665px;
-  /* display: flex;
-    flex-direction: column;
-    column-gap: 40px; */
+  
 }
 .littleTitle {
   font-weight: 500;
