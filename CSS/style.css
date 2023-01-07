@@ -11,17 +11,22 @@
 .mainLeft {
   padding: 200px 0 0;
   width: 665px;
-  /* display: flex;
-    flex-direction: column;
-    column-gap: 40px; */
+  
 }
-.littleTitle {
+.little {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 10px;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 5px;
+}
+/* .littleTitle {
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
   font-family: 'Roboto', sans-serif;
   letter-spacing: 1.3px;
-}
+} */
 .mainText {
   font-size: 58px;
   line-height: 69px;
