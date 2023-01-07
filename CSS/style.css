@@ -13,12 +13,12 @@
   width: 665px;
   
 }
-.little {
-  font-weight: 500;
-  font-size: 18px;
-  line-height: 10px;
-  font-family: 'Roboto', sans-serif;
-  letter-spacing: 5px;
+.littleTitle {
+  font-weight: 555;
+  font-size: 188px;
+  line-height: 1000px;
+  font-family: sans-serif;
+  letter-spacing: 777px;
 }
 /* .littleTitle {
   font-weight: 500;
